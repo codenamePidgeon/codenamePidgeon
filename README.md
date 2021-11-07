@@ -1,0 +1,1 @@
+Hi, I'm codenamePidgeon. I'm interested in teaching myself HTML/JS, and creating a personal website including a blog, js games, etcetera. This is mainly so I'll have something to do in Financial Literacy class.
